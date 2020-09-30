@@ -9,5 +9,5 @@
 * Sklearn ```pip install -U scikit-learn```
 
 ### Author
-* Rishikesh Sivakumar
+* Rishikesh Sivakumar\
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/rishikesh-sivakumar-1a166a18b/)
