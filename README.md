@@ -7,7 +7,7 @@ A Machine Learning model created using regression to predict the number of Covid
 
 ## Prerequisites
 * Python 3 
-* an IDE (prefrably Jupyter Notebook)
+* an IDE (preferably Jupyter Notebook)
 * Pandas 
 * Numpy 
 * Matplotlib 
